@@ -7,7 +7,7 @@
 
 ## Exercise
 
-1. Create table as courses as:
+1. Create table courses as:
 
 ```sql
 create table courses(
@@ -31,7 +31,7 @@ create table students(
 3. Populate the tables courses and students
 
 ```sql
-insert into courses values('1','Computing science'); 
+insert into courses values('1','Computing Science'); 
 insert into courses values('2', 'History');
 insert into courses values('1', 'Databases');
 
