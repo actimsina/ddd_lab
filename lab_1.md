@@ -14,7 +14,7 @@
 	
 	1.2 Then, do it with top-down approach
 
-![Customers and their magazines subscriptions](/ex6.png)
+![Customers and their magazines subscriptions](/images/ex6.png)
 
 2. Do we come up with same normalized tables from both the methods? Discuss any possible reasons for having two different solutions for the same scenario.
 
