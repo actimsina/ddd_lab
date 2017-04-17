@@ -9,7 +9,9 @@
 ## Exercise
 
 1. Perform normalization on the following scenario:
+	
 	1.1 First do it with bottom-up approach
+	
 	1.2 Then, do it with top-down approach
 
 ![Customers and their magazines subscriptions](/ex6.png)
