@@ -2,7 +2,7 @@
 
 ## Objectives
 
-- Practice and review aggregate function:
+- Practice and review aggregate functions:
 	
 	- count
 	- min

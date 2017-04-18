@@ -35,10 +35,10 @@ insert into courses values('1','Computing Science');
 insert into courses values('2', 'History');
 insert into courses values('1', 'Databases');
 
-insert into students values(1, 'Pavel', 'Dobovitch', 'Home student', 1),
-insert into students values(2, 'Winston', 'Kodogo', 'Overseas student', 1),
-insert into students values(3, 'Dawn', 'Cove', 'Overseas student', 1),
-insert into students values(4, 'Satpal', 'Singh', 'Home student', 2),
+insert into students values(1, 'Pavel', 'Dobovitch', 'Home student', 1);
+insert into students values(2, 'Winston', 'Kodogo', 'Overseas student', 1);
+insert into students values(3, 'Dawn', 'Cove', 'Overseas student', 1);
+insert into students values(4, 'Satpal', 'Singh', 'Home student', 2);
 insert into students values(5, 'Horace', 'Smith', 'Home student', 3);
 ```
 4. Write queries to:
