@@ -25,7 +25,7 @@ create table students(
 	last_name varchar(30),
 	student_type varchar(20),
 	course_id integer,
-	foreign key (course_id) references courses
+	foreign key (course_id) references courses(course_id)
 );
 ```
 3. Populate the tables courses and students
@@ -33,7 +33,7 @@ create table students(
 ```sql
 insert into courses values('1','Computing Science'); 
 insert into courses values('2', 'History');
-insert into courses values('1', 'Databases');
+insert into courses values('3', 'Databases');
 
 insert into students values(1, 'Pavel', 'Dobovitch', 'Home student', 1);
 insert into students values(2, 'Winston', 'Kodogo', 'Overseas student', 1);
